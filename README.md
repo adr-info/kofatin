@@ -22,4 +22,4 @@ Application web complète pour la gestion intégrée d'un bar-dépôt :
 4. Accéder à l'application
 
 ## Auteur
-[Votre nom]
+ADR INFORMATIQUE

@@ -1,0 +1,28 @@
+# Fichiers de configuration
+config.php
+database/config.php
+*.log
+
+# Dossiers sensibles
+logs/
+uploads/
+backups/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.cache
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Base de données (on garde le dump)
+# mais pas la base elle-même
+*.sql
+!kofatin_db.sql
